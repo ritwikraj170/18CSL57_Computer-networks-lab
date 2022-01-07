@@ -1,0 +1,4 @@
+After creating a tcl and awk file and writing the code within it 
+Go to Terminal
+Give command - "ns slab1.tcl"
+then         - "awk -f slab1.awk slab1.tr"
